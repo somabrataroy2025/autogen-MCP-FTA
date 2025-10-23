@@ -1,0 +1,11 @@
+autogen-agentchat
+autogen-core
+autogen_ext
+openai
+asyncio
+python-dotenv
+tiktoken
+autogen-ext[docker]
+json-schema-to-pydantic
+mcp-server-fetch
+autogen-ext[azure]
